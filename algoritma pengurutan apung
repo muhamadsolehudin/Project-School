@@ -1,0 +1,18 @@
+algoritma pengurutan apung
+
+{ 1.5 = array sudah terisi data yang belum terurut }
+{ 1.5 = data di dalam array ditampilkan terurut menaik}
+
+1. ulangi sampai 9 kali langkah di bawah ini
+	1.1 ualangi 9 kali langkah di bawah ini
+		1.1.1 bandingkan elemen array ke-x sampai elemen array ke-x(k-1),
+			  jika elemen array ke-x lebih kecil dari elemen array ke-x(k-1),
+			  tukar elemen array ke-x dengan elemen array ke-x(k-1),
+			  kurangi k = k-1
+
+			  jika lebih besar kembali ke langkah 1.1 dengan k-1,
+			  
+	1.2 proses berhenti setelah 9 kali 
+		1.2.1 tampilkan elemen array ke-x(i)
+
+			  
